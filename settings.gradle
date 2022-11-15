@@ -1,0 +1,4 @@
+rootProject.name = 'multi-project'
+include 'api-module'
+include 'core-module'
+
